@@ -1,7 +1,7 @@
 package kuntosalijarjestelma;
 
 public class Tila {
-
+    //Spam 
 	private int suosituinKuntoSaliLaite;
 
 	private int laitteidenMaara;
